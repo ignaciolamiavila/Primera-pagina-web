@@ -49,7 +49,7 @@ body{
 	background: red; 
 }
 
-@media(max-width: 895px){
+@media(max-width: 1124px){
 	.columna{
 		width: 40%;
 		margin-bottom: 30px;
